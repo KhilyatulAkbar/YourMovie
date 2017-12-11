@@ -9,7 +9,7 @@
 #### Identitas Siswa
 Nama lengkap
   * Nama          : Nur Muhammad Khilyatul Akbar
-  * Kelas         : XI RPL 1
+  * Kelas         : XII RPL 1
   * No Urut       : 24
   * NIS           : 4793/1512.070
   * Angkatan      : 24
@@ -31,8 +31,11 @@ Nama lengkap
 <P>Navigasi4 - Navigation Drawer</P>
 <br>
 
-#### Library dari Local Database yang digunakan pada Aplikasi
+#### Library yang digunakan pada Aplikasi
 <P>SugarORM - https://github.com/satyan/sugar</P>
+<P>Volley - https://github.com/google/volley</P>
+<P>Glide - https://github.com/bumptech/glide</P>
+<P>Gson - https://github.com/google/gson</P>
 <br>
 
 #### Deskripsi singkat dari aplikasi
@@ -40,7 +43,7 @@ Nama lengkap
 <br>
 
 #### Kelebihan dari Aplikasi menurut kalian
-<P>Tampilan Membuat penasaran tentang film nya</P>
+<P>Tampilan Membuat penasaran tentang filmnya</P>
 <P>Dapat Menyimpan Film Kesukaan Anda</P>
 <br>
 
